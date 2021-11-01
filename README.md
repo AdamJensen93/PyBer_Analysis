@@ -1,1 +1,11 @@
 # PyBer_Analysis
+Working with ride share sales data to create compelling visualizations to present data.
+## Results
+- I worked with the data to find the weekly fare by city type for Jan 1 - Apr 29th. From this I created a line chart that compared "Rural", "Suburban", and "Urban" sales data. ("analysis/pyber_challenge_chart.png")
+- As you can see on ("analysis/Fig1.png"), the average fare per ride is highest in rural areas, where as the average fare per ride is lowest in urban areas. However, when looking at this data in contrast to ("analysis/pyber_challenge_chart.png"), the total weekly fares from urban areas is approximately 4x - 5x. When you look at the total number of rides by area type ("analysis/Fig6.png") and percent of total fare by city type ("analysis/Fig5.png") you can clearly see that the majority of all fares is coming from urban populations from the sheer volume of rides.
+- Suburban cities tend to be a constant middle ground in all of this, providing higher than urban fares at lower frequencies.
+- We also see that there is an abundance of drivers in urban areas, but much fewer drivers in suburban areas. ("analysis/Fig1.png)
+## Summary
+- Based on these findings, it may be beneficial run a campaign emphasizing the benefits of becoming a PyBer driver in rural and suburban areas. These areas tend to show much lower driver counts but have the opportunity to increase their overall ride count for more profitable rides.
+- It may also be beneficial to look at our pricing model in the urban areas to ensure that we are competetive with other rideshare companies. While urban areas is wher the majority of fares are collected, it is important to make sure that PyBer is competetive with the many other rideshare companies a consumer has available.
+- Challenges in implementing some of these startegies include car ownership in rural in suburban areas. In these regions, indviduals are more likely to own their own car. It's difficult to sell the concept of rideshare to someone who drives their own vehicle everyday. In the urban area, we have the opposite problem. Vehicle ownership is lower and there are multiple rideshare companies as well as public transit options to compete with. Selling rideshare services has to be priced appropriately in order attract a client as well as be profitable for the company and the driver.
